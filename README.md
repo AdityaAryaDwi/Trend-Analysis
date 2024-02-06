@@ -1,1 +1,2 @@
 # Trend-Analysis
+A Python script for analyzing news headlines related to "Green Hydrogen." The script performs web scraping from CNBC and Google News, conducts sentiment analysis, and visualizes trends in sentiment scores. The results are stored in a CSV file, transferred to a Google Sheet using the Google Sheets Python API, and visualized through a week-wise trend plot and a word cloud of organization names.
